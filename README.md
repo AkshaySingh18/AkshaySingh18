@@ -9,8 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akshay34682305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="akshay34682305" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshay-singh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="akshay-singh18" height="30" width="40" /></a>
+<a href="https://twitter.com/akshay34682305" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshay-singh18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akshay-singh18" height="30" width="40" /></a>
+<a href="https://instagram.com/akshay.singh_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
