@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/akshay-singh18/**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/66876935/120083190-98965e80-c0e4-11eb-9834-5aedf2686820.png">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/66876935/120096183-9c0f0180-c147-11eb-936e-f01015c8be75.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
